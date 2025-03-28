@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.21.11
+
+### Patch Changes
+
+- 23b1c0a: dependabot: bump @types/node from 22.13.13 to 22.13.14 in the all group across 1 directory
+
 ## 0.21.10
 
 ### Patch Changes
